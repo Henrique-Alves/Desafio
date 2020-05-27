@@ -1,6 +1,6 @@
-const listaGame = () => {
-    {
-        const games = [
+var listaGame = {
+    
+    games: [
             {
                 nome: "dark souls",
                 img: "imagem",
@@ -33,8 +33,7 @@ const listaGame = () => {
                 nota: "7"   
             }
 
-        ]
-    }
+     ]    
 }
-
+console.log(listaGame);
 export default listaGame;
