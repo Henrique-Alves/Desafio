@@ -26,7 +26,7 @@ const listaGame = {
 
         {
             nome: "call of duty",
-            img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eurogamer.pt%2Farticles%2F2020-02-07-call-of-duty-2020-ps5-xbox-series&psig=AOvVaw2jeDEbFioVljkeMzmv9LQX&ust=1590763784292000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCND76f7m1ukCFQAAAAAdAAAAABAD",
+            img: "https://dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2019/11/call-of-duty-mobile-950x606.jpg",
             anoLancamento: "2003",
             tipo: "acão",
             nota: "7"

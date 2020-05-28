@@ -1,5 +1,5 @@
 import React from 'react';
-import listaGame from '../app/components.js';
+import listaGame from './arquivoJson.js';
 
 const Card = () => {
     return(

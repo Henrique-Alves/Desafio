@@ -1,18 +1,14 @@
 import React from "react";
+import Header from "../../src/app/header";
+import Card from '../app/card';
 
-import { SESSION } from "../../constants";
-import { useSession } from "../../hooks";
-import {
-  LayoutProvider,
-  LayoutI,
-  defaultLayout,
-} from "../../contexts/layoutContext";
-import Header from "../../components/Header";
-import NavLeft from "../../components/NavLeft";
+
 
 const MainLayout = (props) => {
   return (
-      <section className="main-app">    
+      <section className="main-app">   
+         <Header /> 
+         <Card />
         <main>
           {props.children}
         </main>
