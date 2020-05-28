@@ -12,7 +12,7 @@ const MainLayout = (props) => {
         <main>
           {props.children}
         </main>
-        <footer>footer</footer>
+        <footer className="rodape">footer</footer>
       </section>
   );
 };
