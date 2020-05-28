@@ -4,8 +4,26 @@ body {
     background-color: #3E92CC;
 }
 
+h6, .h6 {
+    font-size: 18px;
+}
+
 .bg-dark {
     background-color: #011638 !important;
+    color: white;
+    font-size: 18px;
+}
+
+.card-img, .card-img-top, .card-img-bottom {
+    flex-shrink: 0;
+    width: 50%;
+
+    p{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        
+    }
 }
 
 .nav{
