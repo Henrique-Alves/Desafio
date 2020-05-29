@@ -2,15 +2,15 @@
 
 ### Foi utilizado imagens do google, e framework Bootstrap para criação da pagina, junto com o React.
 
-### No app foi criado o rote para navegação da pagina.
+### *No app foi criado o rote para navegação da pagina.
 
-### criado um componente card onde foi utilizado o bootStrap para renderizar os cards.
+### *criado um componente card onde foi utilizado o bootStrap para renderizar os cards.
 
-### criado um objeto para ser consumido pelos cards.
+### *criado um objeto para ser consumido pelos cards.
 
-### criado um header e footer pra estilo da pagina.
+### *criado um header e footer pra estilo da pagina.
 
-### Criado nosso main para receber nossos componentes.
+### *Criado nosso main para receber nossos componentes.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
