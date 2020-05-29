@@ -1,4 +1,4 @@
-## Criada uma Pi com cardas alinhados verticalmente, mas o desafio seria criar 3 horizontal, alinhados no centro.
+## Criado uma Pi com cardas alinhados verticalmente, mas o desafio seria criar 3 horizontal, alinhados no centro.
 
 ### Foi utilizados imagem do google, e framework Bootstrap para criação da pagina, junto com o React.
 
