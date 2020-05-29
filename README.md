@@ -1,6 +1,21 @@
+## Criada uma Pi com cardas alinhados verticalmente, mas o desafio seria criar 3 horizontal, alinhados no centro.
+
+### Foi utilizados imagem do google, e framework Bootstrap para criação da pagina, junto com o React.
+
+### No app foi criado o rote para navegação da pagina.
+
+### criado criado um componente card onde foi utilizado o bootStrap para renderizar os cards.
+
+### criado um objeto para ser consumido pelos atributos do card.
+
+### criado um header e footer pra estilo da pagina.
+
+### Criado nosso main para receber nossos componentes.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
